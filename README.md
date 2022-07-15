@@ -1,2 +1,0 @@
-# Hangman
-Restarting the project
